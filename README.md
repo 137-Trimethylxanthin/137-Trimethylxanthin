@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
 <h3 align="center">I'm a developer / student with a love to coffee ☕</h3>
 
+[![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](https://maxis.studio)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=137-trimethylxanthin&label=Profile%20views&color=0e75b6&style=flat" alt="137-trimethylxanthin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=137-trimethylxanthin" alt="137-trimethylxanthin" /></a> </p>
@@ -23,7 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.com/users/451712143050670080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/451712143050670080" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/451712143050670080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/451712143050670080" height="30" width="40" /></a> <a href="https://gitlab.com/137-Trimethylxanthin" target="blank"><img align="center" src="https://raw.githubusercontent.com/137-Trimethylxanthin/137-Trimethylxanthin/1e2e5513121a8a58275de3cc23876f718a61b468/gitlab-logo-500.svg" alt="https://gitlab.com/137-Trimethylxanthin" height="40" width="50" /></a>  <a href="https://github.com/137-Trimethylxanthin" target="blank"><img align="center" src="https://raw.githubusercontent.com/137-Trimethylxanthin/137-Trimethylxanthin/1e2e5513121a8a58275de3cc23876f718a61b468/iconmonstr-github-1.svg" alt="https://github.com/137-Trimethylxanthin" height="30" width="40" /></a> 
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
