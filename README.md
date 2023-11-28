@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
-<h3 align="center">I'm a developer / student with a passion for rust</h3>
+<h3 align="center">I'm a developer / student with a love to coffee ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=137-trimethylxanthin&label=Profile%20views&color=0e75b6&style=flat" alt="137-trimethylxanthin" /> </p>
 
