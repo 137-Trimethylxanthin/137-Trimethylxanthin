@@ -36,5 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=137-trimethylxanthin&show_icons=true&theme=tokyonight&locale=en" alt="137-trimethylxanthin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=137-trimethylxanthin&theme=dark" alt="137-trimethylxanthin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=137-trimethylxanthin&theme=dark" alt="137-trimethylxanthin" /></p> 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/137-Trimethylxanthin?theme=nord&font=Fira%20Code&ext=activity)
