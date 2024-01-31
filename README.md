@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=137-Trimethylxanthin&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [School things » mostly java](https://gitlab.com/137-Trimethylxanthin) (school things are private for now)
+- 🔭 I’m currently working on [A prgramm for my schools "Tag Der Offenen Türe" check it out :)](https://gitlab.com/tuer_offen/programmier-trainer)
 
 - 🌱 I’m currently learning **Java, Rust**
 
