@@ -8,9 +8,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=137-Trimethylxanthin&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [A prgramm for my schools "Tag Der Offenen Türe" check it out :)](https://gitlab.com/tuer_offen/programmier-trainer)
+- 🔭 I’m currently working on [My Music Player | Cold Brew](https://github.com/137-Trimethylxanthin/Cold-brew)
 
-- 🌱 I’m currently learning **Java, Rust**
+- 🌱 I’m currently learning **Java, Rust, TypeScript, Astro, Svelte**
 
 - 🤝 I’m looking for help with **nothing**
 
