@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=137-Trimethylxanthin&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [My Music Player | Cold Brew](https://github.com/137-Trimethylxanthin/Cold-brew)
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Java, Rust, TypeScript, Astro, Svelte**
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **idk rust?**
 
-- 📫 How to reach me **via discord (same name)**
+- 📫 How to reach me **[via discord (same name)](https://discordapp.com/users/451712143050670080)**
 
 - 📄 Know about my experiences [https://maxis.studio/resume](https://maxis.studio/resume)
 
