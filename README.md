@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
-<h3 align="center">I'm a developer / student with a love to coffee ☕</h3>
+<h3 align="center">I'm a developer / student with a love for coffee ☕</h3>
 
 [![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](https://maxis.studio)
 
@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for help with **nothing**
 
-- 👨‍💻 All of my projects are available at [https://maxis.studio/](https://maxis.studio/)
+- 👨‍💻 All of my projects are available at [https://maxi.co.at/](https://maxi.co.at/)
 
-- 📝 I will maybe (idk when) write dev logs on [https://maxis.studio/devLogs](https://maxis.studio/devLogs)
+- 📝 I will maybe (idk when) write dev logs on [https://maxi.co.at/devLogs](https://maxi.co.at/devLogs)
 
 - 💬 Ask me about **idk rust?**
 
 - 📫 How to reach me **[via discord (same name)](https://discordapp.com/users/451712143050670080)**
 
-- 📄 Know about my experiences [https://maxis.studio/resume](https://maxis.studio/resume)
+- 📄 Know about my experiences [https://maxi.co.at/resume](https://maxi.co.at/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
