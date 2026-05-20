@@ -12,11 +12,13 @@
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/maxi.co.at-c47e5a?style=for-the-badge">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/maxi.co.at-8b5a3c?style=for-the-badge">
-  <img src="https://img.shields.io/badge/maxi.co.at-c47e5a?style=for-the-badge" alt="website"/>
-</picture>
+<a href="https://maxi.co.at">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/maxi.co.at-c47e5a?style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/maxi.co.at-8b5a3c?style=for-the-badge">
+    <img src="https://img.shields.io/badge/maxi.co.at-c47e5a?style=for-the-badge" alt="website"/>
+  </picture>
+</a>
 &nbsp;
 <a href="https://github.com/137-Trimethylxanthin">
   <img src="https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
