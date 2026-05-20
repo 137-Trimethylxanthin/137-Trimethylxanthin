@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Maxi;dev+%C2%B7+CTFs+%C2%B7+%E2%98%95;caffein+abuse&font=Fira+Code&center=true&width=500&height=60&color=c47e5a&vCenter=true&pause=1000&size=22">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Maxi;dev+%C2%B7+CTFs+%C2%B7+%E2%98%95;caffein+abuse&font=Fira+Code&center=true&width=500&height=60&color=8b5a3c&vCenter=true&pause=1000&size=22">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Maxi;dev+%C2%B7+CTFs+%C2%B7+%E2%98%95;caffein+abuse&font=Fira+Code&center=true&width=500&height=60&color=c47e5a&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Maxi%3Bdev%20%C2%B7%20CTFs%20%C2%B7%20%E2%98%95%3Bcaffeine%20addict&font=Fira+Code&center=true&width=500&height=60&color=c47e5a&vCenter=true&pause=1000&size=22">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Maxi%3Bdev%20%C2%B7%20CTFs%20%C2%B7%20%E2%98%95%3Bcaffeine%20addict&font=Fira+Code&center=true&width=500&height=60&color=8b5a3c&vCenter=true&pause=1000&size=22">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Maxi%3Bdev%20%C2%B7%20CTFs%20%C2%B7%20%E2%98%95%3Bcaffeine%20addict&font=Fira+Code&center=true&width=500&height=60&color=c47e5a&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
   </picture>
 </a>
 
@@ -90,41 +90,37 @@ My cool things are private... for now
 ### &#x1F4E6;&nbsp; projects
 
 <p>
-<!-- Cold-Brew-legacy -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
-  <a href="https://github.com/137-Trimethylxanthin/Cold-Brew-legacy">
+<a href="https://github.com/137-Trimethylxanthin/Cold-Brew-legacy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
     <img height="120" align="left" src="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2" alt="Cold-Brew-legacy"/>
-  </a>
-</picture>
+  </picture>
+</a>
 
-<!-- HashLimette -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=HashLimette&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=HashLimette&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
-  <a href="https://github.com/137-Trimethylxanthin/HashLimette">
+<a href="https://github.com/137-Trimethylxanthin/HashLimette">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=HashLimette&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=HashLimette&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
     <img height="120" align="left" src="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=HashLimette&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2" alt="HashLimette"/>
-  </a>
-</picture>
+  </picture>
+</a>
 
-<!-- Peachy-pager -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Peachy-pager&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Peachy-pager&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
-  <a href="https://github.com/137-Trimethylxanthin/Peachy-pager">
+<a href="https://github.com/137-Trimethylxanthin/Peachy-pager">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Peachy-pager&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Peachy-pager&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
     <img height="120" align="left" src="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Peachy-pager&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2" alt="Peachy-pager"/>
-  </a>
-</picture>
+  </picture>
+</a>
 
-<!-- stlToOptimizedGlb -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=flightdeck-ai&repo=stlToOptimizedGlb&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=flightdeck-ai&repo=stlToOptimizedGlb&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
-  <a href="https://github.com/flightdeck-ai/stlToOptimizedGlb">
+<a href="https://github.com/flightdeck-ai/stlToOptimizedGlb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=flightdeck-ai&repo=stlToOptimizedGlb&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=flightdeck-ai&repo=stlToOptimizedGlb&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
     <img height="120" align="left" src="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=flightdeck-ai&repo=stlToOptimizedGlb&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2" alt="stlToOptimizedGlb"/>
-  </a>
-</picture>
+  </picture>
+</a>
 </p>
 
 <br clear="left">
