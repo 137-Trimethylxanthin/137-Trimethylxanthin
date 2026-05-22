@@ -129,7 +129,7 @@ My cool things are private... for now
 
 ---
 
-### &#x1F6E1;&nbsp; Major CTF
+### &#x1F6E1;&nbsp; Major CTFs
 
 **&#x2705;&nbsp; completed**
 
