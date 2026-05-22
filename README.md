@@ -80,7 +80,7 @@ My cool things are private... for now
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 
-**security &amp; Major CTF**<br>
+**security**<br>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white"/>
@@ -129,7 +129,7 @@ My cool things are private... for now
 
 ---
 
-### &#x1F6E1;&nbsp; ctfs
+### &#x1F6E1;&nbsp; Major CTF
 
 **&#x2705;&nbsp; completed**
 
