@@ -52,7 +52,7 @@ Part-time dev at [Teledrone GmbH](https://www.linkedin.com/company/teledrones-gm
 
 My cool things are private... for now
 
-<sub>**currently** &mdash; grinding for ACSC Finals &amp; preparing for Defcon Qualifiers &#x1F525;</sub>
+<sub>**currently** &mdash; grinding for ACSC Finals</sub>
 
 ---
 
@@ -92,11 +92,11 @@ My cool things are private... for now
 ### &#x1F4E6;&nbsp; projects
 
 <p>
-<a href="https://github.com/137-Trimethylxanthin/Cold-Brew-legacy">
+<a href="https://github.com/137-Trimethylxanthin/Cold-Brew">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
-    <img height="120" align="left" src="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew-legacy&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2" alt="Cold-Brew-legacy"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew&theme=transparent&hide_border=true&title_color=8b5a3c&text_color=434d58&icon_color=8b5a3c&description_lines_count=2">
+    <img height="120" align="left" src="https://github-readme-stats-kappa-dusky.vercel.app/api/pin/?username=137-Trimethylxanthin&repo=Cold-Brew&theme=transparent&hide_border=true&title_color=c47e5a&text_color=cdd6f4&icon_color=c47e5a&description_lines_count=2" alt="Cold-Brew"/>
   </picture>
 </a>
 
