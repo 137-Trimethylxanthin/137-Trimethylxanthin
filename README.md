@@ -141,7 +141,7 @@ My cool things are private... for now
 
 **&#x1F525;&nbsp; preparing for**
 
-ACSC Finals 2025
+ACSC Finals 2026
 
 **&#x1F51C;&nbsp; up next**
 
