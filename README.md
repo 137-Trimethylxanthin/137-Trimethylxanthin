@@ -2,7 +2,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg"><img alt="The caffeine molecule, 1,3,7-trimethylxanthine, drawn as a skeletal formula. Its three methyl groups are labelled: 1, HTL Villach; 3, Teledrones; 7, CTF and AlpSec. Below it the name Methyltheobromin." src="./assets/hero-light.svg" width="100%"></picture>
 </p>
 
-**Maxi** · Villach, Austria · handle = caffeine, 1,3,7-trimethylxanthine
+**Maxi** · Villach, Austria · 1,3,7-trimethylxanthine
 
 - **1 · HTL Villach**: Informatik, Matura 2027
 - **3 · Teledrones GmbH**: part-time fullstack dev, drone mapping, since 2024
