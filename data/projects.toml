@@ -1,0 +1,39 @@
+# Die Karte: the six projects on the profile, in menu order.
+# tools/build.py turns this into assets/karte-dark.svg and assets/karte-light.svg.
+# Keep `blurb` short (about 50 characters); the script fails if a line is too wide.
+
+[[project]]
+name = "Kaffeehaus"
+repo = "noctalia-kaffeehaus"
+stack = "Luau · Python"
+blurb = "Seven plugins for the Noctalia shell on Wayland"
+
+[[project]]
+name = "Stundenglas"
+repo = "stundenglas"
+stack = "Rust"
+blurb = "Keeps a WebUntis timetable in your calendar"
+
+[[project]]
+name = "AURA"
+repo = "AURA-Junction"
+stack = "FastAPI · React"
+blurb = "Ask a construction drawing, see it on the plan"
+
+[[project]]
+name = "CodingLab"
+repo = "HTL-Vill-Codinglab"
+stack = "Tauri · SvelteKit"
+blurb = "Kids program a drone in blocks that become Python"
+
+[[project]]
+name = "buddity"
+repo = "buddity"
+stack = "Tauri · TypeScript"
+blurb = ". . . dont ask"
+
+[[project]]
+name = "DeepTUI"
+repo = "DeepTUI"
+stack = "Rust · Ratatui"
+blurb = "Terminal dashboard for DeepSeek API usage"
