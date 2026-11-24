@@ -399,7 +399,7 @@ def hero_svg(theme: str) -> str:
     text(tag, "1,3,7-TRIMETHYLXANTHIN", W / 2, rule_y + 32, P["muted"], "middle")
 
     title = "Methyltheobromin: caffeine with its methyl groups on N1, N3 and N7 labelled HTL Villach, Teledrones and CTF · AlpSec"
-    return svg_doc(W, H, P["bg"], title, out)
+    return svg_doc(W, H, None, title, out)
 
 
 def bg_shape(w, h, bg, corners="all", rad=16) -> str:
@@ -423,7 +423,7 @@ def svg_doc(w, h, bg, title, body, corners="all") -> str:
             f'viewBox="0 0 {w} {h}" role="img" aria-label="{title}">',
             f"<title>{title}</title>",
             "<defs>" + "".join(f'<path id="{g}" d="{d}"/>' for g, d in DEFS.values() if d) + "</defs>",
-            bg_shape(w, h, bg, corners),
+            *([bg_shape(w, h, bg, corners)] if bg else []),
             *body,
             "</svg>",
             "",
@@ -466,7 +466,7 @@ def karte_head_svg(theme: str) -> str:
         )
     for x in (margin, W - margin):
         out.append(f'<circle cx="{x}" cy="{hy - 14}" r="3.5" fill="{P["accent"]}"/>')
-    return svg_doc(W, HEAD_H, P["bg"], "Die Karte", out, corners="all")
+    return svg_doc(W, HEAD_H, None, "Die Karte", out, corners="all")
 
 
 def karte_row_svg(theme: str, p: dict, last: bool) -> str:
@@ -496,7 +496,7 @@ def karte_row_svg(theme: str, p: dict, last: bool) -> str:
     text(F["blurb"], blurb, margin + 24, y + 38, P["muted"])
     h = ROW_BASE + 38 + LAST_PAD if last else ROW_H
     title = f"{name} ({stack}): {blurb}"
-    return svg_doc(W, h, P["bg"], title, out, corners="all")
+    return svg_doc(W, h, None, title, out, corners="all")
 
 
 def slug(p: dict) -> str:
