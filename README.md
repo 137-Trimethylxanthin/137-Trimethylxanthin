@@ -6,7 +6,7 @@
 
 - **1 · HTL Villach**: Informatik, Matura 2027
 - **3 · Teledrones GmbH**: part-time fullstack dev, drone mapping, since 2024
-- **7 · CTF**: on-site, pwn · rev · crypto · web, AlpSec member (website & Discord)
+- **7 · CTF**: misc & web, member of AlpSec
 - **Stack**: Rust · TypeScript · Svelte · Tauri 2 · Python · Lua, on Hyprland
 
 <p align="center">
